@@ -6,6 +6,7 @@
  * and open the template in the editor.
  */
 
+ // Conflicting change
 
 import edu.wpi.first.wpilibj.Joystick;
 /**
